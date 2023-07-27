@@ -1,0 +1,8 @@
+C:\dialytask\Assisted Practice\bubblesort\bin\Debug\bubblesort.exe.config
+C:\dialytask\Assisted Practice\bubblesort\bin\Debug\bubblesort.exe
+C:\dialytask\Assisted Practice\bubblesort\bin\Debug\bubblesort.pdb
+C:\dialytask\Assisted Practice\bubblesort\obj\Debug\bubblesort.csproj.AssemblyReference.cache
+C:\dialytask\Assisted Practice\bubblesort\obj\Debug\bubblesort.csproj.SuggestedBindingRedirects.cache
+C:\dialytask\Assisted Practice\bubblesort\obj\Debug\bubblesort.csproj.CoreCompileInputs.cache
+C:\dialytask\Assisted Practice\bubblesort\obj\Debug\bubblesort.exe
+C:\dialytask\Assisted Practice\bubblesort\obj\Debug\bubblesort.pdb
